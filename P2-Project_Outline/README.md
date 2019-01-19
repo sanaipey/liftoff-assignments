@@ -26,11 +26,13 @@ I chose to create this project because of my interest in cooking and trying out 
 
 ### Technologies
 Spring Boot
+
 Java
+
 Thymeleaf templates
+
 mySQL 
-CSS
-HTML
+
 or Javascript
 
 
