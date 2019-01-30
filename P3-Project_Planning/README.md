@@ -18,4 +18,4 @@ For this assignment, you'll create some initial plans for your project.
 https://www.pivotaltracker.com/n/projects/2239401
 
 ### Project Repo Link
-https://github.com/sanaipey/MyRecipe-App
+https://github.com/sanaipey/my-recipes
