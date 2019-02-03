@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-https://github.com/sanaipey
+[Github](https://github.com/sanaipey)
 
 ### LinkedIn
-https://www.linkedin.com/in/sheila-olewe-05774316b/
+[Linkedin](https://www.linkedin.com/in/sheila-olewe-05774316b/)
 
 ### Resume
 [Resume](https://github.com/sanaipey/liftoff-assignments/blob/master/C1-Online_Profiles/Sheila%20Olewe%20CV.pdf)
